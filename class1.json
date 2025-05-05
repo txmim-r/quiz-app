@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "What is 1 + 1?",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which is a fruit?",
+    "options": [
+      "Book",
+      "Mango",
+      "Chair",
+      "Pen"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "question": "Which shape has 4 equal sides?",
+    "options": [
+      "Triangle",
+      "Rectangle",
+      "Square",
+      "Circle"
+    ],
+    "answer": "Square"
+  },
+  {
+    "question": "Which is a fruit?",
+    "options": [
+      "Book",
+      "Mango",
+      "Chair",
+      "Pen"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "What is 4 + 1?",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "Which is a fruit?",
+    "options": [
+      "Book",
+      "Mango",
+      "Chair",
+      "Pen"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Circle",
+      "Square",
+      "Triangle",
+      "Rectangle"
+    ],
+    "answer": "Triangle"
+  },
+  {
+    "question": "What is 5 + 6?",
+    "options": [
+      "13",
+      "12",
+      "10",
+      "11"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "question": "Which one is used to write?",
+    "options": [
+      "Ball",
+      "Pen",
+      "Chair",
+      "Shoe"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "question": "Which is a fruit?",
+    "options": [
+      "Book",
+      "Mango",
+      "Chair",
+      "Pen"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "Which is a fruit?",
+    "options": [
+      "Book",
+      "Mango",
+      "Chair",
+      "Pen"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "What is 8 + 9?",
+    "options": [
+      "18",
+      "17",
+      "16",
+      "19"
+    ],
+    "answer": "17"
+  },
+  {
+    "question": "Which one is used to write?",
+    "options": [
+      "Ball",
+      "Pen",
+      "Chair",
+      "Shoe"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "question": "Which animal gives us milk?",
+    "options": [
+      "Dog",
+      "Cow",
+      "Cat",
+      "Horse"
+    ],
+    "answer": "Cow"
+  },
+  {
+    "question": "Which object tells time?",
+    "options": [
+      "Spoon",
+      "Clock",
+      "Pencil",
+      "Bag"
+    ],
+    "answer": "Clock"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "What is 8 + 7?",
+    "options": [
+      "17",
+      "16",
+      "14",
+      "15"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "Which one is used to write?",
+    "options": [
+      "Ball",
+      "Pen",
+      "Chair",
+      "Shoe"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "question": "Which one is used to write?",
+    "options": [
+      "Ball",
+      "Pen",
+      "Chair",
+      "Shoe"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "What is 6 + 7?",
+    "options": [
+      "15",
+      "13",
+      "12",
+      "14"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "question": "Which object tells time?",
+    "options": [
+      "Spoon",
+      "Clock",
+      "Pencil",
+      "Bag"
+    ],
+    "answer": "Clock"
+  },
+  {
+    "question": "Which animal barks?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Sheep"
+    ],
+    "answer": "Dog"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "What is 1 + 7?",
+    "options": [
+      "7",
+      "8",
+      "10",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Which object tells time?",
+    "options": [
+      "Spoon",
+      "Clock",
+      "Pencil",
+      "Bag"
+    ],
+    "answer": "Clock"
+  },
+  {
+    "question": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "question": "Which is a fruit?",
+    "options": [
+      "Book",
+      "Mango",
+      "Chair",
+      "Pen"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "Which object tells time?",
+    "options": [
+      "Spoon",
+      "Clock",
+      "Pencil",
+      "Bag"
+    ],
+    "answer": "Clock"
+  },
+  {
+    "question": "What is 8 + 1?",
+    "options": [
+      "9",
+      "11",
+      "10",
+      "8"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Which object tells time?",
+    "options": [
+      "Spoon",
+      "Clock",
+      "Pencil",
+      "Bag"
+    ],
+    "answer": "Clock"
+  },
+  {
+    "question": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "What is 8 + 5?",
+    "options": [
+      "15",
+      "13",
+      "12",
+      "14"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "Which one is used to write?",
+    "options": [
+      "Ball",
+      "Pen",
+      "Chair",
+      "Shoe"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "question": "Which animal barks?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Sheep"
+    ],
+    "answer": "Dog"
+  },
+  {
+    "question": "What is 2 + 8?",
+    "options": [
+      "9",
+      "12",
+      "11",
+      "10"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "Which shape has 4 equal sides?",
+    "options": [
+      "Triangle",
+      "Rectangle",
+      "Square",
+      "Circle"
+    ],
+    "answer": "Square"
+  },
+  {
+    "question": "Which one is used to write?",
+    "options": [
+      "Ball",
+      "Pen",
+      "Chair",
+      "Shoe"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "question": "Which object tells time?",
+    "options": [
+      "Spoon",
+      "Clock",
+      "Pencil",
+      "Bag"
+    ],
+    "answer": "Clock"
+  },
+  {
+    "question": "Which is a fruit?",
+    "options": [
+      "Book",
+      "Mango",
+      "Chair",
+      "Pen"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "What is 5 + 7?",
+    "options": [
+      "12",
+      "14",
+      "11",
+      "13"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "Which object tells time?",
+    "options": [
+      "Spoon",
+      "Clock",
+      "Pencil",
+      "Bag"
+    ],
+    "answer": "Clock"
+  },
+  {
+    "question": "Which one is used to write?",
+    "options": [
+      "Ball",
+      "Pen",
+      "Chair",
+      "Shoe"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "question": "Which is a fruit?",
+    "options": [
+      "Book",
+      "Mango",
+      "Chair",
+      "Pen"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "What is 6 + 1?",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Which one is used to write?",
+    "options": [
+      "Ball",
+      "Pen",
+      "Chair",
+      "Shoe"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "Which shape has 4 equal sides?",
+    "options": [
+      "Triangle",
+      "Rectangle",
+      "Square",
+      "Circle"
+    ],
+    "answer": "Square"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "What is 5 + 8?",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "13"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "Which is a fruit?",
+    "options": [
+      "Book",
+      "Mango",
+      "Chair",
+      "Pen"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "What is 1 + 3?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Which animal gives us milk?",
+    "options": [
+      "Dog",
+      "Cow",
+      "Cat",
+      "Horse"
+    ],
+    "answer": "Cow"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Circle",
+      "Square",
+      "Triangle",
+      "Rectangle"
+    ],
+    "answer": "Triangle"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "What is 4 + 6?",
+    "options": [
+      "12",
+      "10",
+      "9",
+      "11"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "Which shape has 4 equal sides?",
+    "options": [
+      "Triangle",
+      "Rectangle",
+      "Square",
+      "Circle"
+    ],
+    "answer": "Square"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "What is 2 + 8?",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "9"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "Which animal barks?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Sheep"
+    ],
+    "answer": "Dog"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "Which animal barks?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Sheep"
+    ],
+    "answer": "Dog"
+  },
+  {
+    "question": "Which object tells time?",
+    "options": [
+      "Spoon",
+      "Clock",
+      "Pencil",
+      "Bag"
+    ],
+    "answer": "Clock"
+  },
+  {
+    "question": "What is 5 + 6?",
+    "options": [
+      "10",
+      "12",
+      "11",
+      "13"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "Which animal gives us milk?",
+    "options": [
+      "Dog",
+      "Cow",
+      "Cat",
+      "Horse"
+    ],
+    "answer": "Cow"
+  },
+  {
+    "question": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "What is 3 + 1?",
+    "options": [
+      "4",
+      "6",
+      "3",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Which animal gives us milk?",
+    "options": [
+      "Dog",
+      "Cow",
+      "Cat",
+      "Horse"
+    ],
+    "answer": "Cow"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "What is 3 + 7?",
+    "options": [
+      "11",
+      "9",
+      "12",
+      "10"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "Which shape has 4 equal sides?",
+    "options": [
+      "Triangle",
+      "Rectangle",
+      "Square",
+      "Circle"
+    ],
+    "answer": "Square"
+  },
+  {
+    "question": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "question": "What color is grass?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "What is 4 + 4?",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What color is the sun?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "question": "Which is used to cut paper?",
+    "options": [
+      "Scissors",
+      "Pencil",
+      "Glue",
+      "Box"
+    ],
+    "answer": "Scissors"
+  },
+  {
+    "question": "Which shape has 4 equal sides?",
+    "options": [
+      "Triangle",
+      "Rectangle",
+      "Square",
+      "Circle"
+    ],
+    "answer": "Square"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Circle",
+      "Square",
+      "Triangle",
+      "Rectangle"
+    ],
+    "answer": "Triangle"
+  }
+]

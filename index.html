@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta charset="UTF-8">
+  <title>Reasoning & Aptitude Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Reasoning & Aptitude Quiz</h1>
+
+    <label for="classSelect">Select Class:</label>
+    <select id="classSelect">
+        <option value="class1">Class 1</option>
+        <option value="class2">Class 2</option>
+        <option value="class3">Class 3</option>
+        <option value="class4">Class 4</option>
+        <option value="class5">Class 5</option>
+        <option value="class6">Class 6</option>
+        <option value="class7">Class 7</option>
+        <option value="class8">Class 8</option>
+        <option value="class9">Class 9</option>
+        <option value="class10">Class 10</option>
+        <option value="class11">Class 11</option>
+        <option value="class12">Class 12</option>
+      </select>
+      
+    <button onclick="startQuiz()">Start Quiz</button>
+
+    <form id="quizForm" style="display:none;"></form>
+    <button id="submitBtn" onclick="submitQuiz()" style="display:none;">Submit</button>
+
+    <div id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
